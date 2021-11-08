@@ -1,6 +1,7 @@
 # Informe Tarea numero 1 
 
 OBJETIVOS
+
 PILAS MIJA 
 henry falso
 
