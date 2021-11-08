@@ -9,7 +9,7 @@ henry falso
 MARCO TEÓRICO (RESUMEN)
 
 
-![](https://github.com/bonacimba/InformeTarea-C-1-2/blob/main/Diagrama%20en%20blanco.png)
+![](https://postimg.cc/ZWyj9dhh)
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
