@@ -1,4 +1,4 @@
-# InformeTarea-C-1-2
+# Informe Tarea numero 1 
 
 OBJETIVOS
 PILAS MIJA 
