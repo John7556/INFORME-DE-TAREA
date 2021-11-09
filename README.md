@@ -2,8 +2,19 @@
 
 OBJETIVOS
 
-PILAS MIJA 
-henry falso
+Amalizar y comprender el SI 
+
+Utilizar la notaciòn científica, de ingenieria y prefijos métricos en los números considerados grandes y pequeños.
+
+Comprender el concepto de carga eléctrica  
+
+Definir los conceptos de voltaje, corriente y resistencia
+
+Aprender la correcta medición de voltaje, corriente eléctrica y resistencia de un circuito
+
+Reconocer el riesgo eléctrico en la manipulación de un componente electrónico
+
+
 
 
 MARCO TEÓRICO (RESUMEN)
