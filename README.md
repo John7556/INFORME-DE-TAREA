@@ -8,6 +8,16 @@ henry falso
 
 MARCO TEÓRICO (RESUMEN)
 
+![Imagen 0](https://user-images.githubusercontent.com/93899720/140927732-77e72f81-72ee-4292-9d27-cd1d77cf7101.jpg)
+![Imagen 1](https://user-images.githubusercontent.com/93899720/140927735-e1e16321-a96d-49dd-bb4a-d54ac2bc6746.jpg)
+![Imagen 2](https://user-images.githubusercontent.com/93899720/140927739-d1a23b93-5d56-4537-85bb-aa1b0c770500.jpg)
+![Imagen 3](https://user-images.githubusercontent.com/93899720/140927740-7543f8b8-6a5c-491b-9367-d762e726718b.jpg)
+![Imagen 4](https://user-images.githubusercontent.com/93899720/140927742-eabe49cc-f45e-45bc-a541-00c2c976d9be.jpg)
+![Imagen 5](https://user-images.githubusercontent.com/93899720/140927744-dafc4b9d-1f67-4cad-9ea1-0785cee8d3b9.jpg)
+![Imagen 6](https://user-images.githubusercontent.com/93899720/140927745-63c40f06-3545-4f2d-a615-bbc888a954de.jpg)
+![Imagen 7](https://user-images.githubusercontent.com/93899720/140927746-32ef69b7-44ac-47fc-a8e4-365cd5805b6f.jpg)
+
+
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
