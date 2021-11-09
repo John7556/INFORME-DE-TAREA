@@ -45,7 +45,7 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ![Captura de pantalla 2021-11-09 004116](https://user-images.githubusercontent.com/93899720/140869037-dfdabdbe-0db1-45ae-a83b-5f4644308e48.png)
 
 
-![Captura de pantalla 2021-11-09 004152](https://user-images.githubusercontent.com/93899720/140869038-988da72d-48ad-47c6-8faf-598eebf22588.png)
+
 
 
 
