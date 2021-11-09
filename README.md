@@ -45,10 +45,16 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ![Captura de pantalla 2021-11-09 004116](https://user-images.githubusercontent.com/93899720/140869037-dfdabdbe-0db1-45ae-a83b-5f4644308e48.png)
 
 
+![Captura de pantalla 2021-11-09 004941](https://user-images.githubusercontent.com/93899720/140869859-4716af12-1443-4ae9-83d8-2029728a0987.png)
 
 
+![Captura de pantalla 2021-11-09 005000](https://user-images.githubusercontent.com/93899720/140869861-3daf1cb8-9d40-4896-9d4b-8eec5f28e001.png)
 
 
+![Captura de pantalla 2021-11-09 005019](https://user-images.githubusercontent.com/93899720/140869862-57b2cbc0-0fac-49b3-ae9c-11fce7070ac5.png)
+
+
+![Captura de pantalla 2021-11-09 005035](https://user-images.githubusercontent.com/93899720/140869864-504122ec-bf2f-4c20-a4d6-2d7e87b8810c.png)
 
 
 VIDEO
