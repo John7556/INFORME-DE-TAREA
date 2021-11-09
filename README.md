@@ -92,7 +92,12 @@ CONCLUSIONES
 
 BIBLIOGRAFÍA
 
-Emplear normas APA.
+Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
+
+Notación científica - Wikipedia, la enciclopedia libre. (2021). Retrieved 9 November 2021, from https://es.wikipedia.org/wiki/Notaci%C3%B3n_cient%C3%ADfica
+
+Circuitos Electricos Partes y Tipos. (2021). Retrieved 9 November 2021, from https://www.areatecnologia.com/electricidad/circuitos-electricos.html
+
 
 RUBRICA
 
