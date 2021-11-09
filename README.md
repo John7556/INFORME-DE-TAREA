@@ -9,8 +9,9 @@ henry falso
 MARCO TEÓRICO (RESUMEN)
 
 
-
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+CAPITULO 1
 
 ![Captura de pantalla 2021-11-09 003155](https://user-images.githubusercontent.com/93899720/140869114-597b79bd-f824-41cb-97fa-d0b2ad90ed90.png)
 
@@ -22,6 +23,9 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
 ![Captura de pantalla 2021-11-09 003309](https://user-images.githubusercontent.com/93899720/140869122-66f2766a-c46b-4603-8eb8-c1bc4e2bc851.png)
+
+
+CAPITULO 2
 
 
 ![Captura de pantalla 2021-11-09 003718](https://user-images.githubusercontent.com/93899720/140869027-346cd9d2-2e46-4a96-b9b1-7255e16d332f.png)
