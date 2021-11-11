@@ -91,32 +91,45 @@
 - PREGUNTA 19)
 
 
+
 ![ejer 19](https://user-images.githubusercontent.com/93899720/141241863-24da8479-9456-48f5-b5ea-ef0e910b5f4d.jpg)
+
 
 
 - PREGUNTA 21)
 
 
-![ejer 23](https://user-images.githubusercontent.com/93899720/141241865-5b08ca08-a5c2-480f-a471-8ae665c3b4eb.jpg)
+
+![ejer 21](https://user-images.githubusercontent.com/93899720/141243185-d8807378-f6cf-484f-a884-21ed7d624e94.jpg)
+
 
 
 - PREGUNTA 23)
 
 
-![ejer 25](https://user-images.githubusercontent.com/93899720/141241866-c851df7c-6365-48e4-9547-71237c45ddea.jpg)
+
+![ejer 23](https://user-images.githubusercontent.com/93899720/141241865-5b08ca08-a5c2-480f-a471-8ae665c3b4eb.jpg)
+
 
 
 - PREGUNTA 25)
 
 
-![ejer 27](https://user-images.githubusercontent.com/93899720/141241867-fd333548-1d37-4bf1-8333-3ef2b0d2d300.jpg)
+![ejer 25](https://user-images.githubusercontent.com/93899720/141241866-c851df7c-6365-48e4-9547-71237c45ddea.jpg)
+
 
 
 - PREGUNTA 27)
 
 
-![ejer 29](https://user-images.githubusercontent.com/93899720/141241868-d47ed34e-a02a-407b-aa60-60db9cb62394.jpg)
+![ejer 27](https://user-images.githubusercontent.com/93899720/141241867-fd333548-1d37-4bf1-8333-3ef2b0d2d300.jpg)
 
+
+
+- PREGUNTA 29)
+
+
+![ejer 29](https://user-images.githubusercontent.com/93899720/141241868-d47ed34e-a02a-407b-aa60-60db9cb62394.jpg)
 
 
 
