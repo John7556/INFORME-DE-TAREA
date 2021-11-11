@@ -34,6 +34,8 @@
 
 -CAPITULO 1
 
+Del ejercicio 1 al 7 se aplica la regla de la notacion científica recorriendo la coma.
+
 Pregunta 1)
 
 ![ejer 1](https://user-images.githubusercontent.com/93945969/141234887-5e1219df-e61e-4383-883f-39513a925fd2.jpg)
