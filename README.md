@@ -56,28 +56,40 @@ pregunta 9)
 
 ![ejer 9](https://user-images.githubusercontent.com/93945969/141234893-5607be34-e4b3-4f6c-a020-4df8fbefc35f.jpg)
 
+Para sumar en notación científica se tiene que tener el mismo esponente en la base y se suman los argumentos.
+
 pregunta 10)
 
 ![ejer 11](https://user-images.githubusercontent.com/93945969/141234894-ced326fd-aef0-4e7d-ace7-5964afec288e.jpg)
+
+Para multiplicar en notación científica se tiene que tener el mismo exponente en la base y se multiplican los argumentos.
 
 pregunta 13)
 
 ![ejer 13](https://user-images.githubusercontent.com/93945969/141234895-dc12eed7-0b13-434f-9b47-9f0d314ce173.jpg)
 
+La notación de ingenieros es muy similar a la científica con un cambio pequeño que es que las potencias son multiplos de 3.
+
 pregunta 15)
 
 ![ejer 15](https://user-images.githubusercontent.com/93945969/141234896-e659bbb2-67f9-40f9-b71f-c4bf5e928eaf.jpg)
 
+
 pregunta 17)
 
 ![ejer 17](https://user-images.githubusercontent.com/93945969/141234897-aa2f7ad9-0dc4-4e2a-8b2c-fcee85332ae1.jpg)
+
+Se aplican las misma propiedades de la notación científica pero con los exponentes multiplos de 3.
 
 pregunta 19)
 
 ![ejer 19](https://user-images.githubusercontent.com/93945969/141234899-fa53329a-ce40-4243-af89-6fa464fb15b3.jpg)
 
 pregunta 21)
+
 ![ejer 21](https://user-images.githubusercontent.com/93945969/141234901-bc2c11c0-fd59-4f27-8095-1fea4911b6d2.jpg)
+
+se aplica la transformacion de unidades.
 
 pregunta 23)
 
@@ -94,6 +106,8 @@ pregunta 27)
 pregunta 29)
 
 ![ejer 29](https://user-images.githubusercontent.com/93945969/141234906-36ca37a7-58c7-4fef-ad32-18f4113cec7c.jpg)
+
+Se transforma a una unidad en común y luego se efectua la operación.
 
 
 
@@ -203,6 +217,8 @@ pregunta 29)
 
 
 ![Captura de pantalla 2021-11-10 224450](https://user-images.githubusercontent.com/93899720/141234360-c1171135-2a82-4a25-a66c-d318595fc186.png)
+
+
 
 
 
