@@ -1,23 +1,23 @@
 # Informe Tarea numero 1 
 
-OBJETIVOS
+- OBJETIVOS
 
-Amalizar y comprender el SI 
+-Amalizar y comprender el SI 
 
-Utilizar la notaciòn científica, de ingenieria y prefijos métricos en los números considerados grandes y pequeños.
+-Utilizar la notaciòn científica, de ingenieria y prefijos métricos en los números considerados grandes y pequeños.
 
-Comprender el concepto de carga eléctrica  
+-Comprender el concepto de carga eléctrica  
 
-Definir los conceptos de voltaje, corriente y resistencia
+-Definir los conceptos de voltaje, corriente y resistencia
 
-Aprender la correcta medición de voltaje, corriente eléctrica y resistencia de un circuito
+-Aprender la correcta medición de voltaje, corriente eléctrica y resistencia de un circuito
 
-Reconocer el riesgo eléctrico en la manipulación de un componente electrónico
-
-
+-Reconocer el riesgo eléctrico en la manipulación de un componente electrónico
 
 
-MARCO TEÓRICO (RESUMEN)
+
+
+- MARCO TEÓRICO (RESUMEN)
 
 ![Imagen 0](https://user-images.githubusercontent.com/93899720/140927732-77e72f81-72ee-4292-9d27-cd1d77cf7101.jpg)
 ![Imagen 1](https://user-images.githubusercontent.com/93899720/140927735-e1e16321-a96d-49dd-bb4a-d54ac2bc6746.jpg)
@@ -30,12 +30,12 @@ MARCO TEÓRICO (RESUMEN)
 
 
 
-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-CAPITULO 1
+-CAPITULO 1
 
 
-CAPITULO 2
+-CAPITULO 2
 
 
 - PREGUNTA 1)
@@ -226,15 +226,15 @@ CAPITULO 2
 
 
 
-VIDEO
+- VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se expliquen el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
-CONCLUSIONES
+- CONCLUSIONES
 
 
 
-BIBLIOGRAFÍA
+- BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
 
