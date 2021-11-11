@@ -34,99 +34,26 @@
 
 -CAPITULO 1
 
-Del ejercicio 1 al 7 se aplica la regla de la notacion científica recorriendo la coma.
-
-Pregunta 1)
-
-![ejer 1](https://user-images.githubusercontent.com/93945969/141234887-5e1219df-e61e-4383-883f-39513a925fd2.jpg)
-
-Pregunta 3)
-
-![ejer 3](https://user-images.githubusercontent.com/93945969/141234889-f6b1974f-f32a-4b56-962e-80980bf76817.jpg)
-
-pregunta 5)
-
-![ejer 5](https://user-images.githubusercontent.com/93945969/141234890-7ec96b79-0cab-4ede-aad5-3e4cbc78a9d0.jpg)
-
-pregunta 7)
-
-![ejer 7](https://user-images.githubusercontent.com/93945969/141234891-9025e274-3062-408b-8554-84f4bf8fa0d5.jpg)
-
-pregunta 9)
-
-![ejer 9](https://user-images.githubusercontent.com/93945969/141234893-5607be34-e4b3-4f6c-a020-4df8fbefc35f.jpg)
-
-Para sumar en notación científica se tiene que tener el mismo esponente en la base y se suman los argumentos.
-
-pregunta 10)
-
-![ejer 11](https://user-images.githubusercontent.com/93945969/141234894-ced326fd-aef0-4e7d-ace7-5964afec288e.jpg)
-
-Para multiplicar en notación científica se tiene que tener el mismo exponente en la base y se multiplican los argumentos.
-
-pregunta 13)
-
-![ejer 13](https://user-images.githubusercontent.com/93945969/141234895-dc12eed7-0b13-434f-9b47-9f0d314ce173.jpg)
-
-La notación de ingenieros es muy similar a la científica con un cambio pequeño que es que las potencias son multiplos de 3.
-
-pregunta 15)
-
-![ejer 15](https://user-images.githubusercontent.com/93945969/141234896-e659bbb2-67f9-40f9-b71f-c4bf5e928eaf.jpg)
-
-
-pregunta 17)
-
-![ejer 17](https://user-images.githubusercontent.com/93945969/141234897-aa2f7ad9-0dc4-4e2a-8b2c-fcee85332ae1.jpg)
-
-Se aplican las misma propiedades de la notación científica pero con los exponentes multiplos de 3.
-
-pregunta 19)
-
-![ejer 19](https://user-images.githubusercontent.com/93945969/141234899-fa53329a-ce40-4243-af89-6fa464fb15b3.jpg)
-
-pregunta 21)
-
-![ejer 21](https://user-images.githubusercontent.com/93945969/141234901-bc2c11c0-fd59-4f27-8095-1fea4911b6d2.jpg)
-
-se aplica la transformacion de unidades.
-
-pregunta 23)
-
-![ejer 23](https://user-images.githubusercontent.com/93945969/141234902-da62e3dc-9346-43ad-81e7-39d3726c56b9.jpg)
-
-pregunta 25)
-
-![ejer 25](https://user-images.githubusercontent.com/93945969/141234904-0171e346-d09c-4ded-8162-f6281d1ed472.jpg)
-
-pregunta 27)
-
-![ejer 27](https://user-images.githubusercontent.com/93945969/141234905-2130da18-d095-4e18-a36f-c7c46f154400.jpg)
-
-pregunta 29)
-
-![ejer 29](https://user-images.githubusercontent.com/93945969/141234906-36ca37a7-58c7-4fef-ad32-18f4113cec7c.jpg)
-
-Se transforma a una unidad en común y luego se efectua la operación.
-
-
 
 -CAPITULO 2
 
 
 - PREGUNTA 1)
 
-
 ![Captura de pantalla 2021-11-10 223010](https://user-images.githubusercontent.com/93899720/141234338-348e4f28-1ac4-4a15-bbb1-e212fb19b543.png)
 
 
 - PREGUNTA 3)
+
+- En este ejercicio se aplica la conversion de electrones a coulomb siendo esto la divison de el numero
+  de elctrones sobre 6.25x10^18 dando como resultado el numero de electrones.
 
 
 ![Captura de pantalla 2021-11-10 223848](https://user-images.githubusercontent.com/93899720/141234339-f98d2359-64c5-4d56-800f-2a4f1d283094.png)
 
 
 - PREGUNTA 5)
+- En este ejercicio debemos tener en cuenta que 1V = 1 J/C por lo que la conversion se resulta facil.
 
 
 ![Captura de pantalla 2021-11-10 223918](https://user-images.githubusercontent.com/93899720/141234340-dc0491e5-5a32-409f-b0fb-d0eabddb81cf.png)
@@ -134,6 +61,7 @@ Se transforma a una unidad en común y luego se efectua la operación.
 
 
 - PREGUNTA 7)
+- En este ejercicio aplicamos la formula que nos dice que el voltaje = potencia sobre intensidad.
 
 
 ![Captura de pantalla 2021-11-10 223942](https://user-images.githubusercontent.com/93899720/141234341-55d3c198-f294-4339-8ee0-2078de476a4f.png)
@@ -141,13 +69,15 @@ Se transforma a una unidad en común y luego se efectua la operación.
 
 
 - PREGUNTA 9)
-
+- 
 
 ![Captura de pantalla 2021-11-10 224001](https://user-images.githubusercontent.com/93899720/141234342-cfaf4464-f0a4-4386-9794-78e3433cb855.png)
 
 
 
 - PREGUNTA 11)
+- Aplicamos una variable de la formula de intensidad es igual la cantidad de electricidad sobre el 
+  tiempo.
 
 
 ![Captura de pantalla 2021-11-10 224019](https://user-images.githubusercontent.com/93899720/141234343-ba0d24b2-48ab-411a-8faf-6d4a075a1b92.png)
@@ -155,6 +85,7 @@ Se transforma a una unidad en común y luego se efectua la operación.
 
 
 - PREGUNTA 13)
+- Aplicamos la formula de coulomb que es igual a intensidad por tiempo lo que nos da coulomb 
 
 
 ![Captura de pantalla 2021-11-10 224133](https://user-images.githubusercontent.com/93899720/141234344-46a2ff7f-83c8-4e3c-a50e-386a1ca43245.png)
@@ -162,6 +93,8 @@ Se transforma a una unidad en común y luego se efectua la operación.
 
 
 - PREGUNTA 15)
+- aplicamos la formula de conductancia la cual nos dice que es 1 sobre la cantidad de ohmios que queremos
+  saber su conductancia y luego los transformamos a milicoulomb 
 
 
 ![Captura de pantalla 2021-11-10 224149](https://user-images.githubusercontent.com/93899720/141234345-cec02feb-8241-446d-9774-ee3b08d3e7c9.png)
@@ -183,6 +116,10 @@ Se transforma a una unidad en común y luego se efectua la operación.
 
 
 - PREGUNTA 21)
+- Usamos la siguiente tabla de colores de resitencia para resolver esta pregunta 
+
+
+[![2-Captura.png](https://i.postimg.cc/ydrkscPT/2-Captura.png)](https://postimg.cc/ygcVTJ2J)
 
 
 ![Captura de pantalla 2021-11-10 224313](https://user-images.githubusercontent.com/93899720/141234351-64792f2c-f34b-4493-bc54-e4ffd06ab009.png)
@@ -193,6 +130,8 @@ Se transforma a una unidad en común y luego se efectua la operación.
 
 
 - PREGUNTA 23)
+- Usamos la misma tabla para poder ordenar los colores de manera correcta.
+
 
 
 ![Captura de pantalla 2021-11-10 224355](https://user-images.githubusercontent.com/93899720/141234354-3c1619fb-02d9-463d-842c-76cc2ebe96db.png)
@@ -214,11 +153,11 @@ Se transforma a una unidad en común y luego se efectua la operación.
 
 
 - PREGUNTA 29)
+- Nos imaginamos una resistencia con estos colores: Violeta Rojo = 4 7 2 = 4 7 x 10 2 = 4700Ω o
+  4k7 Ohm.
 
 
 ![Captura de pantalla 2021-11-10 224450](https://user-images.githubusercontent.com/93899720/141234360-c1171135-2a82-4a25-a66c-d318595fc186.png)
-
-
 
 
 
