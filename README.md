@@ -35,6 +35,7 @@
 -CAPITULO 1
 
 - PREGUNTA 1)
+- Del ejercicio 1 al 7 se aplican las leyes de la notación científica.
 
 
 ![ejer 1](https://user-images.githubusercontent.com/93899720/141241849-e69be396-a684-4450-abe0-3b0030f1ddb8.jpg)
@@ -59,18 +60,21 @@
 
 
 - PREGUNTA 9)
+-Para sumar en notación científica se debe igualar el exponente y sumar los argumentos.
 
 
 ![ejer 9](https://user-images.githubusercontent.com/93899720/141241854-d6ee217b-16f8-4d52-bbab-16ccaf64067b.jpg)
 
 
 - PREGUNTA 11)
+-Para multiplicar en notación científica se debe multiplicar los argumentos y se suman los exponentes.
 
 
 ![ejer 11](https://user-images.githubusercontent.com/93899720/141241855-78f0e3aa-602c-4bba-8616-4103abaf050e.jpg)
 
 
 - PREGUNTA 13)
+-Las notación de ingeniera es similar a la científica pero solo se utilizan exponentes múltiplos de 3.
 
 
 ![ejer 13](https://user-images.githubusercontent.com/93899720/141241858-cd2233fa-543b-4b4a-b4c0-8f1dffcca70d.jpg)
@@ -97,6 +101,7 @@
 
 
 - PREGUNTA 21)
+-Se procede a transformar unidades.
 
 
 
@@ -127,6 +132,7 @@
 
 
 - PREGUNTA 29)
+-Para poder sumar se tiene q transformar en una misma unidad y después de procede a realizar la suma.
 
 
 ![ejer 29](https://user-images.githubusercontent.com/93899720/141241868-d47ed34e-a02a-407b-aa60-60db9cb62394.jpg)
