@@ -34,52 +34,38 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPITULO 1
 
-![Captura de pantalla 2021-11-09 003155](https://user-images.githubusercontent.com/93899720/140869114-597b79bd-f824-41cb-97fa-d0b2ad90ed90.png)
-
-
-![Captura de pantalla 2021-11-09 003222](https://user-images.githubusercontent.com/93899720/140869119-90a60ba7-42c3-4735-9e3b-b38619b2384a.png)
-
-
-![Captura de pantalla 2021-11-09 003244](https://user-images.githubusercontent.com/93899720/140869120-841dfdc0-df35-493d-88b9-3e9e3e672412.png)
-
-
-![Captura de pantalla 2021-11-09 003309](https://user-images.githubusercontent.com/93899720/140869122-66f2766a-c46b-4603-8eb8-c1bc4e2bc851.png)
-
 
 CAPITULO 2
 
-
-![Captura de pantalla 2021-11-09 003718](https://user-images.githubusercontent.com/93899720/140869027-346cd9d2-2e46-4a96-b9b1-7255e16d332f.png)
-
-
-![Captura de pantalla 2021-11-09 003915](https://user-images.githubusercontent.com/93899720/140869030-6f43201a-c7f8-474a-9ee3-3b7a41fa0fa7.png)
-
-
-![Captura de pantalla 2021-11-09 003935](https://user-images.githubusercontent.com/93899720/140869032-7c4e0c2d-a5fb-4bd3-8df2-b1bc03e676e2.png)
-
-
-![Captura de pantalla 2021-11-09 003957](https://user-images.githubusercontent.com/93899720/140869033-faae8c7c-53c6-4650-ae45-7fb42f1253df.png)
-
-
-![Captura de pantalla 2021-11-09 004024](https://user-images.githubusercontent.com/93899720/140869035-c93a56da-7a9f-45d7-89e1-6c408faac790.png)
-
-
-![Captura de pantalla 2021-11-09 004045](https://user-images.githubusercontent.com/93899720/140869036-2563c554-9223-44c6-aad2-a78719534b3a.png)
-
-
-![Captura de pantalla 2021-11-09 004116](https://user-images.githubusercontent.com/93899720/140869037-dfdabdbe-0db1-45ae-a83b-5f4644308e48.png)
-
-
-![Captura de pantalla 2021-11-09 004941](https://user-images.githubusercontent.com/93899720/140869859-4716af12-1443-4ae9-83d8-2029728a0987.png)
-
-
-![Captura de pantalla 2021-11-09 005000](https://user-images.githubusercontent.com/93899720/140869861-3daf1cb8-9d40-4896-9d4b-8eec5f28e001.png)
-
-
-![Captura de pantalla 2021-11-09 005019](https://user-images.githubusercontent.com/93899720/140869862-57b2cbc0-0fac-49b3-ae9c-11fce7070ac5.png)
+![Captura de pantalla 2021-11-10 223010](https://user-images.githubusercontent.com/93899720/141234338-348e4f28-1ac4-4a15-bbb1-e212fb19b543.png)
+![Captura de pantalla 2021-11-10 223848](https://user-images.githubusercontent.com/93899720/141234339-f98d2359-64c5-4d56-800f-2a4f1d283094.png)
+![Captura de pantalla 2021-11-10 223918](https://user-images.githubusercontent.com/93899720/141234340-dc0491e5-5a32-409f-b0fb-d0eabddb81cf.png)
+![Captura de pantalla 2021-11-10 223942](https://user-images.githubusercontent.com/93899720/141234341-55d3c198-f294-4339-8ee0-2078de476a4f.png)
+![Captura de pantalla 2021-11-10 224001](https://user-images.githubusercontent.com/93899720/141234342-cfaf4464-f0a4-4386-9794-78e3433cb855.png)
+![Captura de pantalla 2021-11-10 224019](https://user-images.githubusercontent.com/93899720/141234343-ba0d24b2-48ab-411a-8faf-6d4a075a1b92.png)
+![Captura de pantalla 2021-11-10 224133](https://user-images.githubusercontent.com/93899720/141234344-46a2ff7f-83c8-4e3c-a50e-386a1ca43245.png)
+![Captura de pantalla 2021-11-10 224149](https://user-images.githubusercontent.com/93899720/141234345-cec02feb-8241-446d-9774-ee3b08d3e7c9.png)
+![Captura de pantalla 2021-11-10 224207](https://user-images.githubusercontent.com/93899720/141234348-cad97d97-d968-4744-a4af-736fc1476da3.png)
+![Captura de pantalla 2021-11-10 224221](https://user-images.githubusercontent.com/93899720/141234350-e93f8fa9-3cbc-4321-9fe9-621e4973d8db.png)
+![Captura de pantalla 2021-11-10 224313](https://user-images.githubusercontent.com/93899720/141234351-64792f2c-f34b-4493-bc54-e4ffd06ab009.png)
+![Captura de pantalla 2021-11-10 224333](https://user-images.githubusercontent.com/93899720/141234353-922729b2-29f2-4236-9862-b634ad44ff5c.png)
+![Captura de pantalla 2021-11-10 224355](https://user-images.githubusercontent.com/93899720/141234354-3c1619fb-02d9-463d-842c-76cc2ebe96db.png)
+![Captura de pantalla 2021-11-10 224415](https://user-images.githubusercontent.com/93899720/141234357-2b5feba8-ed48-45ce-8249-68163cb18069.png)
+![Captura de pantalla 2021-11-10 224436](https://user-images.githubusercontent.com/93899720/141234358-686d2a9d-eda9-4bbd-b3a7-cc7b4803ce43.png)
+![Captura de pantalla 2021-11-10 224450](https://user-images.githubusercontent.com/93899720/141234360-c1171135-2a82-4a25-a66c-d318595fc186.png)
+![Captura de pantalla 2021-11-10 224942](https://user-images.githubusercontent.com/93899720/141234361-95789349-9827-4502-a020-e545f867b5b5.png)
+![Captura de pantalla 2021-11-10 225101](https://user-images.githubusercontent.com/93899720/141234362-37608d0e-e42c-4fb9-8478-7669fff16b3b.png)
+![Captura de pantalla 2021-11-10 225125](https://user-images.githubusercontent.com/93899720/141234364-5e661ee4-9784-4b57-8aef-732c6116ab48.png)
+![Captura de pantalla 2021-11-10 225145](https://user-images.githubusercontent.com/93899720/141234365-87db17c2-a39a-4c36-af99-56b32241d5e4.png)
+![Captura de pantalla 2021-11-10 225207](https://user-images.githubusercontent.com/93899720/141234369-c78c5aad-e742-4de8-8f41-8ebadfc0067d.png)
+![Captura de pantalla 2021-11-10 225223](https://user-images.githubusercontent.com/93899720/141234370-1646da11-04d6-4ac4-aa6a-d04fafa7eda0.png)
+![Captura de pantalla 2021-11-10 225244](https://user-images.githubusercontent.com/93899720/141234372-db1dbba6-a881-4c50-a8f0-b13bd400153c.png)
+![Captura de pantalla 2021-11-10 225303](https://user-images.githubusercontent.com/93899720/141234374-f919fb24-f44d-46f2-91ae-d06769b4aa86.png)
+![Captura de pantalla 2021-11-10 225333](https://user-images.githubusercontent.com/93899720/141234376-b1b586ee-f69e-4a92-9575-809528e8bb5e.png)
+![Captura de pantalla 2021-11-10 225401](https://user-images.githubusercontent.com/93899720/141234377-1a5a1b46-23ea-41fd-a47c-89b270a28a0d.png)
+![Captura de pantalla 2021-11-10 225430](https://user-images.githubusercontent.com/93899720/141234378-c9a1519e-e288-4d52-9a46-83e4f75446dc.png)
 
 
-![Captura de pantalla 2021-11-09 005035](https://user-images.githubusercontent.com/93899720/140869864-504122ec-bf2f-4c20-a4d6-2d7e87b8810c.png)
 
 
 VIDEO
