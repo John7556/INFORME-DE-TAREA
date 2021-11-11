@@ -198,7 +198,7 @@
 
 - PREGUNTA 15)
 - aplicamos la formula de conductancia la cual nos dice que es 1 sobre la cantidad de ohmios que queremos
-  saber su conductancia y luego los transformamos a milicoulomb 
+  saber su conductancia y luego los transformamos a microcoulomb 
 
 
 ![Captura de pantalla 2021-11-10 224149](https://user-images.githubusercontent.com/93899720/141234345-cec02feb-8241-446d-9774-ee3b08d3e7c9.png)
