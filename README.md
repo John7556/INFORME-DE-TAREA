@@ -34,49 +34,88 @@
 
 -CAPITULO 1
 
+- PREGUNTA 1)
+
 
 ![ejer 1](https://user-images.githubusercontent.com/93899720/141241849-e69be396-a684-4450-abe0-3b0030f1ddb8.jpg)
+
+
+- PREGUNTA 3)
 
 
 ![ejer 3](https://user-images.githubusercontent.com/93899720/141241851-24f63560-b65d-43c1-8ce9-cce72770f874.jpg)
 
 
+- PREGUNTA 5)
+
+
 ![ejer 5](https://user-images.githubusercontent.com/93899720/141241852-29920696-f6a3-4a38-bc22-c6b6341497e0.jpg)
+
+
+- PREGUNTA 7)
 
 
 ![ejer 7](https://user-images.githubusercontent.com/93899720/141241853-f0871942-c968-4789-8179-70a3d9ffddf9.jpg)
 
 
+- PREGUNTA 9)
+
+
 ![ejer 9](https://user-images.githubusercontent.com/93899720/141241854-d6ee217b-16f8-4d52-bbab-16ccaf64067b.jpg)
+
+
+- PREGUNTA 11)
 
 
 ![ejer 11](https://user-images.githubusercontent.com/93899720/141241855-78f0e3aa-602c-4bba-8616-4103abaf050e.jpg)
 
 
+- PREGUNTA 13)
+
+
 ![ejer 13](https://user-images.githubusercontent.com/93899720/141241858-cd2233fa-543b-4b4a-b4c0-8f1dffcca70d.jpg)
+
+
+- PREGUNTA 15)
 
 
 ![ejer 15](https://user-images.githubusercontent.com/93899720/141241860-ed89a380-d38b-4d83-9f9d-1d087f0f9e5b.jpg)
 
 
+- PREGUNTA 17)
+
+
 ![ejer 17](https://user-images.githubusercontent.com/93899720/141241862-fb229562-cdc3-4b94-8e16-b05f0656642a.jpg)
+
+
+- PREGUNTA 19)
 
 
 ![ejer 19](https://user-images.githubusercontent.com/93899720/141241863-24da8479-9456-48f5-b5ea-ef0e910b5f4d.jpg)
 
 
+- PREGUNTA 21)
+
+
 ![ejer 23](https://user-images.githubusercontent.com/93899720/141241865-5b08ca08-a5c2-480f-a471-8ae665c3b4eb.jpg)
+
+
+- PREGUNTA 23)
 
 
 ![ejer 25](https://user-images.githubusercontent.com/93899720/141241866-c851df7c-6365-48e4-9547-71237c45ddea.jpg)
 
 
+- PREGUNTA 25)
+
+
 ![ejer 27](https://user-images.githubusercontent.com/93899720/141241867-fd333548-1d37-4bf1-8333-3ef2b0d2d300.jpg)
 
 
+- PREGUNTA 27)
+
+
 ![ejer 29](https://user-images.githubusercontent.com/93899720/141241868-d47ed34e-a02a-407b-aa60-60db9cb62394.jpg)
-
-
 
 
 
