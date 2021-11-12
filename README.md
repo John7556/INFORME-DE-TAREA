@@ -173,7 +173,6 @@
 
 
 - PREGUNTA 9)
-- 
 
 ![Captura de pantalla 2021-11-10 224001](https://user-images.githubusercontent.com/93899720/141234342-cfaf4464-f0a4-4386-9794-78e3433cb855.png)
 
