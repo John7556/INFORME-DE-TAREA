@@ -174,7 +174,8 @@
 
 - PREGUNTA 9)
 
-![Captura de pantalla 2021-11-10 224001](https://user-images.githubusercontent.com/93899720/141234342-cfaf4464-f0a4-4386-9794-78e3433cb855.png)
+
+![imagen_2021-11-11_215240](https://user-images.githubusercontent.com/93899720/141400926-10fe7928-8d8d-49cf-abe1-3c1cae78f20b.png)
 
 
 
